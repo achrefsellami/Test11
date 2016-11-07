@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test11</string>
+    <string name="settings">settings</string>
+    <string name="B1">Button1</string>
+    <string name="B2">Button2</string>
+    <string name="B3">Button3</string>
+    <string name="Txt1">Text1</string>
+    <string name="Txt2">Text 2</string>
+
+</resources>
